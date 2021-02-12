@@ -1,5 +1,6 @@
 # GIS715
-GeoViz
+#GeoViz
+
 <!doctype html>
 
 <html lang="en">
