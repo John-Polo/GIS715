@@ -16,7 +16,7 @@ This is the Tableau homework.
 <hr>
 <hr>
 <img src='https://user-images.githubusercontent.com/68556651/108634995-b059a900-744a-11eb-848c-959f78bb342c.jpg'>
-
+To get this effect, start by clicking on the brush icon 
 <img src='https://user-images.githubusercontent.com/68556651/108635112-74731380-744b-11eb-878e-131210e32bbd.jpg'>
 
 <img src='https://user-images.githubusercontent.com/68556651/108635177-f8c59680-744b-11eb-9002-8b1dad77ac87.jpg'>
