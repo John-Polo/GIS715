@@ -23,5 +23,7 @@ This is the Tableau homework.
 
 <img src='https://user-images.githubusercontent.com/68556651/108635223-5823a680-744c-11eb-8380-fd4eae9857d1.jpg'>
 
+<img src='https://user-images.githubusercontent.com/68556651/108635253-80aba080-744c-11eb-8c50-1b4b271e75d0.jpg'>
+
 
 
