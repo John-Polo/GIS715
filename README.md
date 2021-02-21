@@ -19,6 +19,9 @@ This is the Tableau homework.
 
 <img src='https://user-images.githubusercontent.com/68556651/108635112-74731380-744b-11eb-878e-131210e32bbd.jpg'>
 
+<img src='https://user-images.githubusercontent.com/68556651/108635177-f8c59680-744b-11eb-9002-8b1dad77ac87.jpg'>
+
+
 
 
 
