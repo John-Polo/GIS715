@@ -19,28 +19,35 @@ This is the Tableau homework.
 Styling Maps with QGIS (part 1): Neon.
 The data were raster and vector layers for airports. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. I changed various setting related to symbols and colors for the Airports and Flight Path layers. 
 
-
-
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/68556651/108635112-74731380-744b-11eb-878e-131210e32bbd.jpg'>
 Styling Maps with QGIS (part 1): blending.
 The data were raster and vector layers for world-wide bathymetry. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. Change the rendering of each bathymetry layer's blending mode to “Multiply”.
 
-
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/68556651/108635177-f8c59680-744b-11eb-9002-8b1dad77ac87.jpg'>
 Styling Maps with QGIS (part 2): blending.
 The data were raster and vector layers land around Jemez, N.M. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. 
 
-
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/68556651/108635223-5823a680-744c-11eb-8380-fd4eae9857d1.jpg'>
 Styling Maps with QGIS (part 2): more blending.
 The data were raster and vector layers land around Jemez, N.M. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. I changed settings related to layer blending and township label options.
 
-
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/68556651/108635253-80aba080-744c-11eb-8c50-1b4b271e75d0.jpg'>
 Styling Maps with QGIS (part 2): addition blending.
 The data were raster and vector layers land around Jemez, N.M. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. The roads layer feature blending was changed to Addition.
 
-
+<br>
+<br>
 <img src='https://user-images.githubusercontent.com/68556651/108635283-ac2e8b00-744c-11eb-8521-d0f597b54533.jpg'>
 Styling Maps with QGIS (part 2): shapeburst
 The data were raster and vector layers land around Jemez, N.M. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. I changed multiple settings related to topological coloring, "shapeburst" symbols, and boundary symbology edits in this layer.
+
+<hr>
+<hr>
