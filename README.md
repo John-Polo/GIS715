@@ -58,7 +58,7 @@ The data were raster and vector layers land across the U.S.A. To get this effect
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/109074502-d5a61b80-76c5-11eb-9357-67aa3c640687.png'>
-Styling Maps with QGIS (part 2): shapeburst
+Styling Maps with QGIS (part 2): application
 The raster comes from OpenStreetMap and the vector is a track I created on a bike ride with a couple of friends in Raleigh. The background is greyed and the track uses the methods from the Neon activity with the airports. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. In the top of L.S., make sure the appropriate layer is active and in the L.S. window, scroll to bottom and expand the Layer Rendering (L.R.) section. I changed various setting related to symbols and colors for route layer and the origins and Halloween House layers.
 
 <hr>
