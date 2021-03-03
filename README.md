@@ -16,7 +16,7 @@ This is the Tableau homework.
 <hr>
 <hr>
 <br>
-#This is the QGIS map styling lab.
+<i>This is the QGIS map styling lab.</i>
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/108634995-b059a900-744a-11eb-848c-959f78bb342c.jpg'>
