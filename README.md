@@ -1,7 +1,3 @@
-# GIS715
-#GeoViz
-
-
 <!doctype html>
 
 <html lang="en">
