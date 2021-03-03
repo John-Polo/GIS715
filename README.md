@@ -15,6 +15,9 @@ This is the Tableau homework.
 
 <hr>
 <hr>
+<br>
+This is the QGIS map styling lab.
+
 <img src='https://user-images.githubusercontent.com/68556651/108634995-b059a900-744a-11eb-848c-959f78bb342c.jpg'>
 Styling Maps with QGIS (part 1): Neon.
 The data were raster and vector layers for airports. To get this effect, start by clicking on the brush icon on the left side of the QGIS above the Layer table of contents (T.O.C.). That will open a Layer Styling (L.S.) window, which appears on the right in the image above. I changed various setting related to symbols and colors for the Airports and Flight Path layers. 
