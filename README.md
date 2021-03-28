@@ -194,6 +194,7 @@ Chart 2 PNG
 
 <br>
 <br>
+<img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
 
 <br>
 <br>
