@@ -179,3 +179,9 @@ The raster comes from OpenStreetMap and the vector is a track I created on a bik
 
 <hr>
 <hr>
+
+<img src='https://user-images.githubusercontent.com/68556651/112770319-33df5a80-8ff4-11eb-9db5-5eba915235e2.png')
+Chart 1 PNG
+
+
+Chart 1 .rawgraphs
