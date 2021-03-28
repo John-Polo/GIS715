@@ -182,6 +182,20 @@ The raster comes from OpenStreetMap and the vector is a track I created on a bik
 
 <img src='https://user-images.githubusercontent.com/68556651/112770319-33df5a80-8ff4-11eb-9db5-5eba915235e2.png'>
 Chart 1 PNG
+<br>
+<br>
+Chart 1 .rawgraph:
+GitHub doesn't .rawgraph file types. 
+<br>
+<br>
 
+<img src='https://user-images.githubusercontent.com/68556651/112770404-a3554a00-8ff4-11eb-86a7-4e8a2e51a0b8.png'>
+Chart 2 PNG
 
-Chart 1 .rawgraphs
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
