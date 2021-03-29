@@ -181,21 +181,21 @@ The raster comes from OpenStreetMap and the vector is a track I created on a bik
 <hr>
 
 <img src='https://user-images.githubusercontent.com/68556651/112770319-33df5a80-8ff4-11eb-9db5-5eba915235e2.png'>
-Chart 1 PNG
+Treemap of orchestra instruments.
 <br>
 <br>
-Chart 1 .rawgraph:
-GitHub doesn't .rawgraph file types. 
+
+<hr>
 <br>
 <br>
 
 <img src='https://user-images.githubusercontent.com/68556651/112770404-a3554a00-8ff4-11eb-86a7-4e8a2e51a0b8.png'>
-Chart 2 PNG
+A bumpchart of measurements across continents.
 
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
-
+A bumpgraph of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird.
 <br>
 <br>
 <br>
