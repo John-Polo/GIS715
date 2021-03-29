@@ -183,7 +183,6 @@ Treemap of orchestra instruments.
 <br>
 <br>
 
-<hr>
 <br>
 <br>
 
@@ -193,7 +192,7 @@ A bumpchart of measurements across continents.
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
-A bumpgraph of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird.
+A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird.
 <br>
 <br>
 <br>
