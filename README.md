@@ -192,7 +192,8 @@ A bumpchart of measurements across continents.
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
-A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird. These are the first three rows of the table from the eBird data set.
+A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird, a citizen-science bird observation platform. I selected a bumpchart since it can display changes over time, which is suitable to the general increase of counts of the two species over time. The increase of counts doesn't mean there is greater abundance. It has to do with more people submitting observations over time. eBird started in the early 2000s and birding's popularity has increased in the last several decades. 
+These are the first three rows of the table from the eBird data set.
 
 ![image](https://user-images.githubusercontent.com/68556651/112776124-c855b700-900c-11eb-8600-e238f9a9be3f.png)
 
