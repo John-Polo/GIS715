@@ -1,9 +1,8 @@
-
+GIS715 Tableau Homework
 <html lang="en">
 <head>
   <meta charset="utf-8">
 
-  <title>GIS715 Tableau Homework</title>
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
