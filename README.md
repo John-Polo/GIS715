@@ -193,6 +193,7 @@ A bumpchart of measurements across continents.
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
 A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird. These are the first three rows of the table from the eBird data set.
+
 ![image](https://user-images.githubusercontent.com/68556651/112776124-c855b700-900c-11eb-8600-e238f9a9be3f.png)
 
 <br>
