@@ -202,12 +202,7 @@ These are the first three rows of the table from the eBird data set.
 <br>
 <br>
 <hr>
-<div class="sketchfab-embed-wrapper">
-    <iframe title="dixpark" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2ce707ac030248168754c09fd73f9787/embed">
-    </iframe>
-   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+
         <a href="https://sketchfab.com/3d-models/dixpark-2ce707ac030248168754c09fd73f9787?utm_medium=embed&utm_campaign=share-popup&utm_content=2ce707ac030248168754c09fd73f9787" target="_blank" style="font-weight: bold; color: #1CAAD9;">dixpark</a>
         by <a href="https://sketchfab.com/japolo?utm_medium=embed&utm_campaign=share-popup&utm_content=2ce707ac030248168754c09fd73f9787" target="_blank" style="font-weight: bold; color: #1CAAD9;">japolo</a>
         on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2ce707ac030248168754c09fd73f9787" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-    </p>
-</div>
