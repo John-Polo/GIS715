@@ -192,7 +192,14 @@ A bumpchart of measurements across continents.
 <br>
 <br>
 <img src='https://user-images.githubusercontent.com/68556651/112770586-4dcd6d00-8ff5-11eb-81a0-1885f51d2bce.png'>
-A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird.
+A bumpchart of counts of Northern Pygmy Owls and Northern Saw-whet Owls in Oregon from 1970 to 2010. The data come from eBird. These are the first three rows of the table from the eBird data set.
+
+cname	sname	count	state	county	location	lon	lat	date
+Northern Pygmy-Owl	Glaucidium gnoma	1	Oregon	Deschutes	Home	-121.3606882	44.0034575	2008-01-26
+Northern Pygmy-Owl	Glaucidium gnoma	1	Oregon	Curry	BLM MAMU, Curry Co, site F st .02	-124.3268251	42.8755553	2008-07-03
+Northern Pygmy-Owl	Glaucidium gnoma	1	Oregon	Curry	BLM MAMU, Curry Co., OR.	-124.2176056	42.8387166	2008-07-02
+![image](https://user-images.githubusercontent.com/68556651/112776055-9c3a3600-900c-11eb-919a-bbd4992ab92a.png)
+
 <br>
 <br>
 <br>
