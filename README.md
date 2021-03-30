@@ -211,13 +211,15 @@ These are the first three rows of the table from the eBird data set.
 </body>
 <br>
 <br>
-<head>Dixpark -  4 viewpoints</head>
+<head>Dixpark -  4 viewpoints and DSM in blender</head>
 
 ![blenderdixscene1](https://user-images.githubusercontent.com/68556651/112919225-ac1d4d00-90d4-11eb-9459-8d85d5bc06a8.jpg)
+Viewpoint 4 at Dorothea Dix Park, with viewpoint 3 in the background.
 
 ![blenderdixscene2](https://user-images.githubusercontent.com/68556651/112919300-da029180-90d4-11eb-88aa-8629417d4259.jpg)
+Overview of the four viewpoints at Dorothea Dix Park. 
 
-<head>Dixpark blender result video</head>
+<head>Dixpark blender result video:</head><br>
 https://user-images.githubusercontent.com/68556651/112920120-55b10e00-90d6-11eb-8d99-76568eb96319.mp4
 
 
