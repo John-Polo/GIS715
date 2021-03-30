@@ -217,6 +217,7 @@ These are the first three rows of the table from the eBird data set.
 
 ![blenderdixscene2](https://user-images.githubusercontent.com/68556651/112919300-da029180-90d4-11eb-88aa-8629417d4259.jpg)
 
+<head>Dixpark blender result video</head>
 https://user-images.githubusercontent.com/68556651/112920120-55b10e00-90d6-11eb-8d99-76568eb96319.mp4
 
 
