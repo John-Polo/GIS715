@@ -203,7 +203,7 @@ These are the first three rows of the table from the eBird data set.
 <br>
 <hr>
 <hr>
-<title>Dixpark 3D model from sketcfab</title>
+<head>Dixpark 3D model from sketcfab</head>
 <body>
         <a href="https://sketchfab.com/3d-models/dixpark-2ce707ac030248168754c09fd73f9787?utm_medium=embed&utm_campaign=share-popup&utm_content=2ce707ac030248168754c09fd73f9787" target="_blank" style="font-weight: bold; color: #1CAAD9;">dixpark</a>
         by <a href="https://sketchfab.com/japolo?utm_medium=embed&utm_campaign=share-popup&utm_content=2ce707ac030248168754c09fd73f9787" target="_blank" style="font-weight: bold; color: #1CAAD9;">japolo</a>
@@ -211,6 +211,12 @@ These are the first three rows of the table from the eBird data set.
 </body>
 <br>
 <br>
-<title>Dixpark -  4 viewpoints</title>
+<head>Dixpark -  4 viewpoints</head>
 
 ![blenderdixscene1](https://user-images.githubusercontent.com/68556651/112919225-ac1d4d00-90d4-11eb-9459-8d85d5bc06a8.jpg)
+
+![blenderdixscene2](https://user-images.githubusercontent.com/68556651/112919300-da029180-90d4-11eb-88aa-8629417d4259.jpg)
+
+https://user-images.githubusercontent.com/68556651/112920120-55b10e00-90d6-11eb-8d99-76568eb96319.mp4
+
+
