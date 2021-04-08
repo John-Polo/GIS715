@@ -222,4 +222,13 @@ Overview of the four viewpoints at Dorothea Dix Park.
 <head>Dixpark blender result video:</head><br>
 https://user-images.githubusercontent.com/68556651/112920120-55b10e00-90d6-11eb-8d99-76568eb96319.mp4
 
+<br>
+<br>
+<hr>
+Movie of Kepler visual with Raleigh crime data.
+https://user-images.githubusercontent.com/68556651/114101295-83931100-9893-11eb-8039-40ab83b977ac.mp4
 
+<br>
+<br>
+Movie of Kepler visual with Class Viz data.
+https://user-images.githubusercontent.com/68556651/114101551-e2588a80-9893-11eb-83ef-cd2bc0383bd1.mp4
